@@ -1,0 +1,3 @@
+
+void sendToServer();
+char* createJSON();

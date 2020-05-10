@@ -1,0 +1,4 @@
+1 - PROBLEMA:
+When the tests are not working => rm -rf *, cmake ../, make
+https://sourceforge.net/p/gnss-sdr/mailman/gnss-sdr-developers/thread/1364412118.98530.YahooMailNeo@web121105.mail.ne1.yahoo.com/
+
